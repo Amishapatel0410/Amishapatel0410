@@ -1,26 +1,9 @@
+👋 Hi, I'm Amisha Patel
+💻 Computer Science Engineering Student | Aspiring Software Engineer
+
 <div align="center">
 
-<img src="./assets/girl-coding.gif" width="420" alt="Girl coding animation"/>
-
-<br>
-
-# 👋 Hi, I'm Amisha Patel
-
-### 💻 Computer Science Engineering Student | Aspiring Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Java+%7C+DSA+%7C+Full-Stack+Developer;Backend+%7C+Node.js+%7C+MongoDB;She+codes+%F0%9F%92%BB+She+builds+%F0%9F%9A%80+She+learns+%F0%9F%8C%B1;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB" alt="Typing animation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Amishapatel0410&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
-
-<a href="https://github.com/Amishapatel0410?tab=followers">
-<img src="https://img.shields.io/github/followers/Amishapatel0410?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
-</a>
-
-<a href="https://github.com/Amishapatel0410?tab=repositories">
-<img src="https://img.shields.io/github/stars/Amishapatel0410?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+love+coding+%F0%9F%92%BB;Building+projects+%F0%9F%9A%80;Solving+problems+with+Java+%E2%98%95;Learning+Full-Stack+Development+%F0%9F%8C%B1;Debugging+%3D+Learning+%F0%9F%90%9B;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Coding animation"/>
 
 </div>
 
